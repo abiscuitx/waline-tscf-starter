@@ -1,0 +1,27 @@
+{
+  "name": "waline-scf",
+  "version": "1.0.0",
+  "description": "an waline starter for deploy to tencent cloud serverless",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abiscuit9/Waline-Tencentscf-starter.git"
+  },
+  "keywords": [
+    "waline",
+    "serverless"
+  ],
+  "author": "abiscuit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abiscuit9/Waline-Tencentscf-starter/issues"
+  },
+  "homepage": "https://github.com/abiscuit9/Waline-Tencentscf-starter#readme",
+  "dependencies": {
+    "@waline/vercel": "^1.4.1",
+    "aws-serverless-express": "^3.4.0"
+  }
+}
