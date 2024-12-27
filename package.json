@@ -15,7 +15,7 @@
   "license": "MIT",
   "author": "abiscuit",
   "dependencies": {
-    "@waline-tscf/server": "^1.0.2",
+    "@waline-tscf/server": "^1.0.6",
     "aws-serverless-express": "^3.4.0"
   }
 }
