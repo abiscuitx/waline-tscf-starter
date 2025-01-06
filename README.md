@@ -1,4 +1,4 @@
-# [Waline-Tencentscf-starter](https://github.com/abiscuit9/Waline-Tencentscf-starter)
+# [Waline-Tencentscf-starter](https://github.com/x/Waline-Tencentscf-starter)
 
 [Waline](https://github.com/walinejs/waline)是一款基于 Valine 衍生的简洁、安全的评论系统，该项目是使用[腾讯云函数 SCF](https://cloud.tencent.com/product/scf)部署的一个Waline应用示例。
 
