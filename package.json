@@ -15,6 +15,6 @@
   "license": "MIT",
   "author": "abiscuit",
   "dependencies": {
-    "@waline-tscf/server": "^2.0.0-beta.12"
+    "@waline-tscf/server": "^2.0.0-beta.37"
   }
 }
