@@ -1,20 +1,39 @@
 {
-  "name": "waline-tscf-starter",
-  "version": "1.0.0",
-  "description": "A personal waline starter deployed on Tencent Cloud SCF",
+  "name": "@waline-tscf/starter",
+  "version": "1.0.0-beta.2",
+  "description": "Waline-TSCF starter —— Tencent SCF starter template for quick Serverless deployments",
   "main": "index.js",
+  "files": [
+    "index.js",
+    "serverless.yaml",
+    "README.md",
+    "LICENSE"
+  ],
   "keywords": [
     "waline",
-    "Tencent",
-    "serverless"
+    "tscf",
+    "serverless",
+    "scf",
+    "starter",
+    "template"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/abiscuitx/Waline-tscf-starter.git"
+    "url": "git+https://github.com/abiscuit9/waline-tscf-starter.git"
+  },
+  "homepage": "https://github.com/abiscuit9/waline-tscf-starter#readme",
+  "bugs": {
+    "url": "https://github.com/abiscuit9/waline-tscf-starter/issues"
   },
   "license": "MIT",
   "author": "abiscuit",
+  "engines": {
+    "node": ">=20"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
   "dependencies": {
-    "@waline-tscf/server": "^2.0.0-beta.48"
+    "@waline-tscf/server": "^1.32.3-Beta.1"
   }
 }
