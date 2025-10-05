@@ -4,7 +4,7 @@
 
 > waline-tscf：一个基于 [Waline](https://github.com/walinejs/waline) 的评论系统，专为 [腾讯云函数 SCF](https://cloud.tencent.com/product/scf) 部署场景优化，增强后端性能，优化个人博客的前端样式。
 
-## 主要更新
+## 主要特性
 
 - 前端：admin/client
   - 样式定制：更改默认主题，定制个人博客样式
